@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="/home/anuj/Downloads/bcprov-ext-debug-jdk15on-158.jar"/>
+	<classpathentry kind="lib" path="/home/anuj/Downloads/wavesj-0.2.jar"/>
+	<classpathentry kind="lib" path="/home/anuj/Downloads/curve25519-java-0.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/anuj/Downloads/junit-4.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
