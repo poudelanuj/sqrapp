@@ -1,0 +1,22 @@
+[
+  {
+    "address": "AUAfN2CgcH2WdZMKHP47nEM9PWANig3htr", 
+    "privatewif": "Kziq4RTE2AvP62MZDsmwmydfvBnUbmahsap9gY32GTe3vCEWJ3ZJ", 
+    "public": "030ae39e4bc7fb5b1f5a3f93b7b9bc5e4b3fca02ff992082cfff0686cdfc123910" 
+  }, 
+  { 
+    "address": "AebWV3YJTazrrWfe1qdQ39XzseASc8Tdse", 
+    "privatewif": "KwYQnrJLyhBA8Ho7dANEmDiVKJcQAVdFEMEi4whnAqd7gjVNAs8s", 
+    "public": "03170f71cacc171fe516b54628ae781fb150d3b33e2fc5f42e7d4224c734e11ab4" 
+  }, 
+  { 
+    "address": "AbgwbseMQwXXuLnEMhEV3GzCCSBaWTgvEs", 
+    "privatewif": "KwWVTa9KNxG8LbyF9fVG6Wt24Nh9EiJp1omt6UQLBPaH3tEri7tz", 
+    "public": "0207c7dfbaeb1d38c171ffe690d137fa80896072e3bf3a5e9ff206723ce17ed60c" 
+  }, 
+  { 
+    "address": "APszhcZNgpJbfvkYJ9p3KzHQzVjLXLuaWS", 
+    "privatewif": "L2Dz2EUNxqazz72RGbkzBLTkBtaMkeHDjdbDohasB3Ts2Ko9iFQD", 
+    "public": "033b424e948791275a0ddd5db0c8844d8325bbbc645743d88ca154249e6a19aafe" 
+  }
+]

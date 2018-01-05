@@ -2,3 +2,6 @@
 .idea
 gradle
 *.class
+out
+build/
+*.iml
